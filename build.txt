@@ -1,0 +1,3 @@
+author = SuperAndyHero
+version = 0.1
+displayName = Super's Mod of Memes and More
